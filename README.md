@@ -12,3 +12,5 @@ This is a responsive personal portfolio website built with HTML, CSS, and JavaSc
 ## How to Use
 
 To view the portfolio, simply open the `index.html` file in your favorite web browser.
+
+The site is live at:https://coro326.github.io/portfolio-demo/
